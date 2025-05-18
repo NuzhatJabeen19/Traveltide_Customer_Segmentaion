@@ -16,13 +16,13 @@ This data-driven approach is designed to inform a more personalized and effectiv
 This project is structured into three Google Colab notebooks:
 
 1.  **Data Retrieval and Cohort Selection:** This notebook focuses on retrieving data from the TravelTide database, selecting a relevant cohort of users based on specified criteria (records after January 4, 2023, and users with more than 7 sessions), and preparing the data for subsequent analysis. The output of this notebook is a CSV file (`df_cohort.csv`) containing the filtered cohort data.
-    -   [Link to Notebook #1](https://drive.google.com/file/d/1oqZ2FsEBxgczXu-DlsxMo1XQIMMgAnP1/view?usp=sharing)
+    -   [Link to Notebook #1](https://github.com/NuzhatJabeen19/Traveltide_project/blob/main/TraveTide_project_submit_1_data_retreival.ipynb)
 
 2.  **Exploratory Data Analysis (EDA) and User-Based Table Creation:** This notebook performs extensive exploratory data analysis on the cohort data to understand user behavior and travel patterns. It also involves feature engineering to create relevant features and aggregates session and trip information to create a user-based table (`user_based_table.csv`) suitable for segmentation and clustering.
-    -   [Link to Notebook #2](https://colab.research.google.com/drive/1nNKIfJUCpx0ck2U2BAn800pSYgmSdw-T?usp=sharing)
+    -   [Link to Notebook #2](https://github.com/NuzhatJabeen19/Traveltide_project/blob/main/TraveTide_project_submit_2_Data_Exploration.ipynb)
 
 3.  **Feature Engineering, Segmentation, and Clustering:** This notebook implements feature engineering techniques, applies rule-based segmentation, and utilizes Principal Component Analysis (PCA) for dimensionality reduction followed by clustering algorithms (K-Means, DBSCAN) to identify distinct customer segments. Finally, it analyzes the characteristics of each segment to recommend potentially appealing perks.
-    -   [Link to Notebook #3](https://colab.research.google.com/drive/1LrMeTDgjzStPT4a8MwGloUZSqwEHLKvr?usp=sharing)
+    -   [Link to Notebook #3](https://github.com/NuzhatJabeen19/Traveltide_project/blob/main/TraveTide_project_submit_3_PCA.ipynb)
 
 To run these notebooks:
 
