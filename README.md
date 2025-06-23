@@ -1,6 +1,6 @@
 # 🧳 TravelTide Customer Segmentation
 
-A comprehensive data science Academic project focused on analyzing customer behavior for the e-booking platform TravelTide, identifying distinct customer segments, and recommending personalized perks to enhance customer loyalty and retention.
+This project represents a comprehensive customer segmentation analysis for TravelTide, an e-booking platform, developed as a mastery project for a Data Analytics Professional Training Course. The analysis focuses on identifying distinct customer segments and recommending targeted perks to enhance customer loyalty and retention.
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
